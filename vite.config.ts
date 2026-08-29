@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/PANEL-DE-LUCES-V1/',
+    base: '/PANEL-DE-LUCES/',
 
     plugins: [react(), tailwindcss()],
 
